@@ -4,11 +4,11 @@ This project demonstrates the usage of various machine learning algorithms to pr
 Collaborated Project with https://github.com/Sanath-3946
 ## Project Structure
 
-- `generate_data.py`: Generates synthetic data for training.
-- `decision_tree.py`: Implements the Decision Tree classifier.
+- `Create-Synthetic-data`: Generates synthetic data for training.
+- `Decision-tree.py`: Implements the Decision Tree classifier.
 - `logistic_regression.py`: Implements the Logistic Regression classifier.
 - `random_forest.py`: Implements the Random Forest classifier.
-- `support_vector_classifier.py`: Implements the Support Vector Classifier.
+- `SVM.py`: Implements the Support Vector Classifier.
 
 ## Requirements
 
